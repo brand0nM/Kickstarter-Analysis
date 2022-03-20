@@ -1,7 +1,4 @@
 # Kickstarting with Excel
-
----
-
 ## Project Overview
 
 The Client had a play on Kickstarter that came close to its fundraising goals, but ultimately failed; now they now wants to understand how its launch date and funding goals will affect their new campaign.
