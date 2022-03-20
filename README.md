@@ -14,12 +14,12 @@ Using Excel this project will visualize Kickstarter campaign outcomes based on t
 Two instruments were created to better uncover these data trends. The first is a chart of successful, failed and canceled kickstarter vs their respective launch months. The second groups fundraising goals into $5000 increments and compares them to their respective success rates. 
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes_vs_Goals.png](/Volumes/TRANS/Bootcamp/1,Kickstarting_with_Excel/Challenge/Resources/Outcomes_vs_Goals.png) 
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/79609464/159175595-8b72e22d-a75e-4426-8cb9-752f9342ac43.png)
 
 ### Analysis of Outcomes Based on Goals
 
-
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/79609464/159175580-dc11700f-186b-42dd-b2bb-df40a263ac89.png)
 
 ---
 
