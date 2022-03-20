@@ -33,10 +33,17 @@ Though the results are relatively straight forward, our second vizualization pai
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. Summer months tend to not only have more theater kickstarters, but also more succesful theater kickstarter; observable through the graphs spread in the summer months. 
+	- The amount of canceled kickstarters peaks in January, but remains relatevely staginate. 
+	- A campaign is most uncertain if released in the Fall/Spring times
+2. Campaign goals do not affect the outcome as much as other factors
+	- Most campaigns have a goal of less than 15K and in general, the cheaper the goal the more likely they'll achieve it. 
+	- More expensive campaigns between 35K-45K also have a good chance of success.
+![Total_Percentage](https://user-images.githubusercontent.com/79609464/159178076-c2afb086-1bb1-445b-8f82-f9557941566d.png)
+  -Interpreting the results with this normal distibution is best.
+  
+3. This data set is primarily limited by the amount of data. With more data a more accurate model could be created.
 
-- What can you conclude about the Outcomes based on Goals?
+4. If I could change one thing to these models, I would normalize the second graph. This would eliminate the need for a second graph to help interpret the results.
 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+---
