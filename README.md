@@ -5,7 +5,7 @@ The Client had a play on Kickstarter that came close to its fundraising goals, b
 
 ### Purpose
 
-Using Excel this project will visualize Kickstarter campaign outcomes based on their launch dates and funding goals.
+Using Excel this project will visualize campaign outcomes based on their launch dates and funding goals.
 
 ---
 
