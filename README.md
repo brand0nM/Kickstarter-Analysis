@@ -23,7 +23,7 @@ At first glance the seasonality of theater kickstarters is obvious. Summer month
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/79609464/159175580-dc11700f-186b-42dd-b2bb-df40a263ac89.png)
 
-This graph is a little deceptive and should not be interpreted without also referencing its Table. It appears that the most successful kickstarters need funding between 40K-50K, but actually the most consistently successful campaigns asked for less than 15K. 
+This graph is a little deceptive and should not be interpreted without also referencing its Table. It appears that the most successful kickstarters need funding between 35K-45K, but actually the most consistently successful campaigns asked for less than 15K. 
 
 ### Challenges and Difficulties Encountered
 
